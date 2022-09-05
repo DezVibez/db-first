@@ -1,11 +1,11 @@
 
                                                              TABELLA MACCHINE USATE
 
-|   ID        |   MARCA          |       MODELLO    |    PREZZO        |      KM      |    ANNO       |     KW     |   ALIMENTAZIONE    |     CONDIZIONI    |      
+|   ID        |   MARCA  index   | MODELLO index     |    PREZZO        |      KM      |    ANNO       |     KW     |   ALIMENTAZIONE    |     CONDIZIONI    |      
 
 
-|  *SMALLINT  | VARCHAR(20)      |     VARCHAR(20)  |     INT          |     INT      |    DATE       |  SMALLINT  |     VARCHAR(30)    |       TEXT        |  
-|  UNIQUE     |  NO NULL         |       NO NULL    |     NO NULL      |   NO NULL    |   NO NULL     |   NO NULL
+|  *SMALLINT  | VARCHAR(20)      |     VARCHAR(20)   |     INT          |     INT      |    DATE       |  SMALLINT  |     VARCHAR(30)    |       TEXT        |  
+|  UNIQUE     |  NO NULL         |       NO NULL     |     NO NULL      |   NO NULL    |   NO NULL     |   NO NULL
 
     1              BMW                  320               16.000           223.000         03/2014          135             DIESEL              
 __________________________________________________________________________________________________________________________________________________________________
